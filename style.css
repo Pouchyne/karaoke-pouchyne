@@ -1,0 +1,17 @@
+body{background:#0b5fa5;color:#fff;font-family:Arial;padding:10px}input,button{width:100%;padding:8px}a{color:#fff;margin:2px}.artist{font-weight:bold;margin-top:12px}.title{margin-left:16px}
+#alphabet {
+  margin-top: 10px;
+  font-size: 18px;
+  word-spacing: 8px;
+  cursor: pointer;
+}
+#alphabet span {
+  margin: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+#alphabet span {
+  margin: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
